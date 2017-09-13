@@ -11,7 +11,7 @@ erroInicializar = True
 else:
 for elemento in linha:
 if elemento != '.':
-erroInicializar = true
+erroInicializar = 
 if erroInicializar:
 sys.exit(1)
 else:
